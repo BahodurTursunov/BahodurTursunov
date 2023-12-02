@@ -5,35 +5,22 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий бэк-энд разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в 2к19 году поступив в Российкий Университет Дружбы Народов, где я отучился и успешно выпустился. Во время вуза я пробовал себя во многих направлениях, пробовал изучать веб-разработку, но больше всего меня зацепила бэкэнд разработка! С августа 2023 года по октябрь 2023 я проходил стажировку в компании. В настоящий момент мое обучение продолжается, и я изучуаю .NET
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+Я начинающий бэк-энд разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в 2019 году, когда я поступил в Российкий Университет Дружбы Народов, где я отучился и успешно выпустился. Во время вуза я пробовал себя во многих направлениях, пробовал изучать веб-разработку, язык Питон, пробовал себя в DevOps, но больше всего меня зацепила бэкэнд разработка! С августа 2023 года по октябрь 2023 я проходил стажировку в компании. В настоящий момент мое обучение продолжается, и я изучуаю .NET
 
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
-
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
-
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bakha_neoff) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tursunovb18@gmail.com)
 ---
-
 ### 🤝 Социальные сети:
 
   <div id="badges">
     <a href="www.linkedin.com/in/bahodurkhon-tursunov-a6908628b" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/tehnomaniak07" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
+    <a href="https://www.youtube.com/channel/UCGy1TQsb4xwnqffKqEeMJxg" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a>
-    <a href="https://vk.com/f1ll_zzz" target="_blank">
+    <a href="https://vk.com/btursunov2001" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-    <a href="https://dzen.ru/tehnomaniak" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
     </a>
   </div>
 
@@ -90,7 +77,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![codewars]([https://www.codewars.com/users/FilimonovAlexey/badges/large](https://www.codewars.com/users/BahodurTursunov/badges/large))
 
 ### ⚙️ GitHub статистика:
 
