@@ -10,7 +10,7 @@
 
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-bakha_neoff-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tursunovb18@gmail.com)
+- :mail: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-bakha_neoff-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tursunovb18@gmail.com)
 
 ---
 ### 🤝 Социальные сети:
@@ -80,7 +80,7 @@
 
 ### 💻 Codewars:
 
-![codewars]([(https://www.codewars.com/users/BahodurTursunov/badges/large)])
+![codewars](https://www.codewars.com/users/BahodurTursunov/badges/large)
 
 ### ⚙️ GitHub статистика:
 
