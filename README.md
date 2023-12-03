@@ -74,10 +74,10 @@
   <tr>
     <td>
       <img align="flex" src="http://github-readme-streak-stats.herokuapp.com?user=BahodurTursunov&theme=dark&background=000000" alt="Back-End's Github stats" />
+      <img align="flex" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BahodurTursunov&show_icons=true&theme=radical)" />
     </td>
   </tr>
 </table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BahodurTursunov&show_icons=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=BahodurTursunov)
