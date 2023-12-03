@@ -76,7 +76,7 @@
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=BahodurTursunov&theme=dark&background=000000" alt="Back-End's Github stats" />
     </td>
     <td>
-      <img align="right" src="(https://github-readme-stats.vercel.app/api?username=BahodurTursunov&show_icons=true&theme=radical)" />
+      <img height="195px" align="right" src="(https://github-readme-stats.vercel.app/api?username=BahodurTursunov&show_icons=true&theme=radical)" />
     </td>
   </tr>
 </table>
