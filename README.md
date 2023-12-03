@@ -69,22 +69,13 @@
 ![codewars](https://www.codewars.com/users/BahodurTursunov/badges/large)
 
 ### ⚙️ GitHub статистика:
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=BahodurTursunov&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=BahodurTursunov&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=BahodurTursunov&show_icons=true" />
-</picture>
 
 <table>
   <tr>
     <td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=BahodurTursunov&theme=dark&background=000000" alt="Back-End's Github stats" />
+    </td>
+    <td>
       <img align="right" src="(https://github-readme-stats.vercel.app/api?username=BahodurTursunov&show_icons=true&theme=radical)" />
     </td>
   </tr>
