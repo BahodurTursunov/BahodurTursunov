@@ -62,7 +62,7 @@
 | ----------------------------------------------------------------| :---------------: |
 | coursera.com/Основы разработки на C++: Белый пояс               | 01/2021           |
 | FructCode.ru/Курс HTML/CSS                                      | 05/2021           |     
-| SQL-Academy/MySQL                                               | 09/2023           |
+| sql-academy.org/ru/MySQL                                        | 09/2023           |
 --- -->
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/BahodurTursunov/badges/large)
