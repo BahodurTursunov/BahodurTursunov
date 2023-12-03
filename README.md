@@ -1,5 +1,6 @@
 # Привет, меня зовут Баходур! 
-
+<!---https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg -->
+<!---https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg -->
 ---
 
 ###
