@@ -73,13 +73,12 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=BahodurTursunov&theme=dark&background=000000" alt="Back-End's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=BahodurTursunov&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" src="(https://github-readme-stats.vercel.app/api?username=BahodurTursunov&show_icons=true&theme=radical)" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BahodurTursunov&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
-
 
 ![](https://komarev.com/ghpvc/?username=BahodurTursunov)
