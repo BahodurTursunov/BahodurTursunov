@@ -72,7 +72,7 @@
 <table>
   <tr>
     <td>
-      <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=BahodurTursunov&theme=dark&background=000000" alt="Back-End's Github stats" />
+      <img align="flex" src="http://github-readme-streak-stats.herokuapp.com?user=BahodurTursunov&theme=dark&background=000000" alt="Back-End's Github stats" />
     </td>
   </tr>
 </table>
