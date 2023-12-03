@@ -1,13 +1,21 @@
 # Привет, меня зовут Баходур!
+
 ---
+
 ###
+
 - :man_technologist: Обо мне:
 Я начинающий бэк-энд разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в 2019 году, когда я поступил в Российкий Университет Дружбы Народов, где я отучился и успешно выпустился. Во время вуза я пробовал себя во многих направлениях, пробовал изучать веб-разработку, язык Питон, пробовал себя в DevOps, но больше всего меня зацепила бэкэнд разработка! С августа 2023 года по октябрь 2023 я проходил стажировку в компании. В настоящий момент мое обучение продолжается, и я изучуаю .NET
+
 ---
+
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
 - :mail: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-bakha_neoff-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tursunovb18@gmail.com)
+  
 ---
+
 ### 🤝 Социальные сети:
+
   <div id="badges">
     <a href="www.linkedin.com/in/bahodurkhon-tursunov-a6908628b" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
@@ -19,8 +27,11 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
+  
 ---
+
 ### 💻 Технологии:
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -35,8 +46,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
+
 ---
+
 ### 🛠 Инструменты:
+
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
@@ -47,6 +61,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
+
 ---
 
 <!-- ### 💻 Пройденные курсы:
