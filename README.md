@@ -69,6 +69,13 @@
 ---
 
 ### 💻 Codewars:
+
+<div align="center">
+     <a href="https://www.codewars.com/users/BahodurTursunov/badges/large">
+        <img src="gif.gif"  width="300"/>
+     </a>
+</div>
+
 ![codewars](https://www.codewars.com/users/BahodurTursunov/badges/large)
 
 ### ⚙️ GitHub статистика:
