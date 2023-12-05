@@ -68,10 +68,9 @@
 | simpleCode/C# От новичка к профессионалу, ютуб курс             | 06/2023           |
 ---
 
-### 💻 Codewars:
 
 <div align="center">
-     <a href="https://www.codewars.com/users/BahodurTursunov/badges/large">
+     <a href="https://www.codewars.com/users/BahodurTursunov">
         <img src="gif.gif" width="300"/>
      </a>
 </div>
