@@ -70,7 +70,7 @@
 
 <div align="center">
      <a href="https://www.codewars.com/users/BahodurTursunov">
-        <img src="img.gif"  width="300"/>
+        <img src="gif.gif"  width="300"/>
      </a>
 </div>
 <div align="center">
