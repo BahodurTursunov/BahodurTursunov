@@ -76,6 +76,7 @@
              title="CodeWars" alt="CodeWars"/>
     </a>
 </div>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=BahodurTursunovtheme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--![codewars](https://www.codewars.com/users/BahodurTursunov/badges/large) -->
 
