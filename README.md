@@ -81,8 +81,6 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=BahodurTursunov&theme=dark)](https://github.com/BahodurTursunov/leetcode-stats)
 
-[codewars](https://www.codewars.com/users/BahodurTursunov/badges/large)
-
 ### ⚙️ GitHub статистика:
 
 <table>
