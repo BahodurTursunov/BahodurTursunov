@@ -76,8 +76,14 @@
              title="CodeWars" alt="CodeWars"/>
     </a>
 </div>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=BahodurTursunovtheme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
+# LeetCode Stats
+
+![Kunalan's LeetCode Stats](https://github.com/BahodurTursunov/leetcode-stats/blob/master/generated/stats.svg)
+
+Generates SVG displaying stats of a LeetCode user. Made for use in GitHub README Profiles.
+
+To use, fork repo and add `LEETCODE_USERNAME` as secret.
 <!--![codewars](https://www.codewars.com/users/BahodurTursunov/badges/large) -->
 
 ### ⚙️ GitHub статистика:
