@@ -79,11 +79,8 @@
 
 # LeetCode Stats
 
-![Kunalan's LeetCode Stats](https://github.com/BahodurTursunov/leetcode-stats/blob/master/generated/stats.svg)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=BahodurTursunov&theme=dark)](https://github.com/BahodurTursunov/leetcode-stats)
 
-Generates SVG displaying stats of a LeetCode user. Made for use in GitHub README Profiles.
-
-To use, fork repo and add `LEETCODE_USERNAME` as secret.
 <!--![codewars](https://www.codewars.com/users/BahodurTursunov/badges/large) -->
 
 ### ⚙️ GitHub статистика:
