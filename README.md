@@ -67,6 +67,7 @@
 
 <div align="center">
      <a href="https://www.codewars.com/users/BahodurTursunov">
+      <a href=(https://leetcode-stats-six.vercel.app/api?username=BahodurTursunov&theme=dark)](https://github.com/BahodurTursunov/leetcode-stats)>
         <img src="gif.gif"  width="300"/>
      </a>
 </div>
@@ -79,7 +80,7 @@
 
 # LeetCode Stats
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=BahodurTursunov&theme=dark)](https://github.com/BahodurTursunov/leetcode-stats)
+
 
 ### ⚙️ GitHub статистика:
 
