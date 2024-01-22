@@ -69,12 +69,12 @@
      <a href="https://www.codewars.com/users/BahodurTursunov">
         <img src="gif.gif"  width="300"/>
      </a>
-  <a href=(https://leetcode-stats-six.vercel.app/api?username=BahodurTursunov&theme=dark)](https://github.com/BahodurTursunov/leetcode-stats)>
   </a>
-    
 </div>
+
 <div align="center">
     <a href="https://www.codewars.com/users/BahodurTursunov">
+       <a href=(https://leetcode-stats-six.vercel.app/api?username=BahodurTursunov&theme=dark)](https://github.com/BahodurTursunov/leetcode-stats)>
         <img src="https://www.codewars.com/users/BahodurTursunov/badges/small"
              title="CodeWars" alt="CodeWars"/>
     </a>
