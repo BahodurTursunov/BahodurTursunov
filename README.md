@@ -87,8 +87,8 @@
 </div>
 
 # Stats 
-![](https://leetcard.jacoblin.cool/BahodurTursunov?ext=activity)
 ![Codewars](https://github.r2v.ch/codewars?user=BahodurTursunov&top_languages=true)
+![LeetCode](https://leetcard.jacoblin.cool/BahodurTursunov?ext=activity)
 
 
 ### ⚙️ GitHub статистика:
