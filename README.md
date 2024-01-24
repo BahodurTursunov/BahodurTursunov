@@ -79,15 +79,7 @@
     </a>
 </div>
 -->
-<div align="center">
-  <a href=(https://leetcode-stats-six.vercel.app/api?username=BahodurTursunov&theme=dark)](https://github.com/BahodurTursunov/leetcode-stats)>
-    <img src="(https://leetcode-stats-six.vercel.app/api?username=BahodurTursunov&theme=dark)"
-      title="LeetCode" alt="LeetCode"/>
-  </a>
-</div>
-
-# Stats 
-![Codewars](https://github.r2v.ch/codewars?user=BahodurTursunov&top_languages=true)
+![Codewars](https://github.r2v.ch/codewars?user=BahodurTursunov&top_languages=true) 
 ![LeetCode](https://leetcard.jacoblin.cool/BahodurTursunov?ext=activity)
 
 
