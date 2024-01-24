@@ -65,7 +65,7 @@
 | simpleCode/C# От новичка к профессионалу, ютуб курс             | 06/2023           |
 ---
 
-<div align="center">
+<!-- <div align="center">
      <a href="https://www.codewars.com/users/BahodurTursunov">
         <img src="gif.gif"  width="300"/>
      </a>
@@ -78,7 +78,7 @@
              title="CodeWars" alt="CodeWars"/>
     </a>
 </div>
-
+-->
 <div align="center">
   <a href=(https://leetcode-stats-six.vercel.app/api?username=BahodurTursunov&theme=dark)](https://github.com/BahodurTursunov/leetcode-stats)>
     <img src="(https://leetcode-stats-six.vercel.app/api?username=BahodurTursunov&theme=dark)"
