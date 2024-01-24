@@ -85,7 +85,7 @@
 # Stats 
 <img src="https://github.r2v.ch/codewars?user=BahodurTursunov&stroke=black&top_languages=true&hide_clan=true&theme=midnight_purple&name=mb6ockatf">
 
-![leetcode stats](https://leetcode.card.workers.dev/BahodurTursunov?theme=dark&font=source_code_pro&extension=activity)
+![](https://leetcard.jacoblin.cool/BahodurTursunov?animation=true)
 
 ### ⚙️ GitHub статистика:
 
