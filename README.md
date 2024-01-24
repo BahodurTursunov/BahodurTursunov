@@ -83,7 +83,7 @@
 </div>
 
 # Stats 
-<img src="https://github.r2v.ch/codewars?user=BahodurTursunov&stroke=black&top_languages=true&hide_clan=true&theme=midnight_purple&name=mb6ockatf">
+![](https://github-readme-codewars-stats.herokuapp.com/api/?username=BahodurTursunov&card&colormode=dark_mode)
 
 ![](https://leetcard.jacoblin.cool/BahodurTursunov?animation=true)
 
