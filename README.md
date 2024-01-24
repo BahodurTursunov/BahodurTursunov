@@ -80,15 +80,15 @@
 </div>
 
 <div align="center">
-<a href=(https://leetcode-stats-six.vercel.app/api?username=BahodurTursunov&theme=dark)](https://github.com/BahodurTursunov/leetcode-stats)></a>
+  <a href=(https://leetcode-stats-six.vercel.app/api?username=BahodurTursunov&theme=dark)](https://github.com/BahodurTursunov/leetcode-stats)>
+    <img src="(https://leetcode-stats-six.vercel.app/api?username=BahodurTursunov&theme=dark)"
+      title="LeetCode" alt="LeetCode"/>
+  </a>
 </div>
 
 # Stats 
 
-<div class="links">
-  <a href=(https://github.r2v.ch/codewars?user=BahodurTursunov&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)>Codewars</a>
-  <a href=(https://leetcard.BahodurTursunov.cool/lapor?ext=contest)>LeetCode</a>
-</div>
+
 
 ### ⚙️ GitHub статистика:
 
