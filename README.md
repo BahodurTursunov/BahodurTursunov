@@ -85,9 +85,10 @@
 
 # Stats 
 
-![Codewars](https://github.r2v.ch/codewars?user=BahodurTursunov&top_languages=true)
-
-![](https://leetcard.jacoblin.cool/BahodurTursunov?animation=true)
+<div class="links">
+  <a href="https://github.r2v.ch/BahodurTursunov/top_languages">Codewars</a>
+  <a href="https://leetcard.jacoblin.cool/BahodurTursunov">LeetCode</a>
+</div>
 
 ### ⚙️ GitHub статистика:
 
