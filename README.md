@@ -85,7 +85,7 @@
 
 # Stats 
 
-![](https://github-readme-codewars-stats.herokuapp.com/api/?username=BahodurTursunov&card&colormode=dark_mode)
+![Codewars](https://github.r2v.ch/codewars?user=BahodurTursunov&top_languages=true)
 
 ![](https://leetcard.jacoblin.cool/BahodurTursunov?animation=true)
 
