@@ -86,8 +86,8 @@
 # Stats 
 
 <div class="links">
-  <a href="https://github.r2v.ch/BahodurTursunov/top_languages">Codewars</a>
-  <a href="https://leetcard.jacoblin.cool/BahodurTursunov">LeetCode</a>
+  <a href=(https://github.r2v.ch/codewars?user=BahodurTursunov&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)>Codewars</a>
+  <a href=(https://leetcard.BahodurTursunov.cool/lapor?ext=contest)>LeetCode</a>
 </div>
 
 ### ⚙️ GitHub статистика:
