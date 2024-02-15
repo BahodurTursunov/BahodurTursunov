@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahodurtursunov" alt="bahodurtursunov" /></a> </p>
 
-- 🌱 I’m currently learning **C# in Alif Academy and IT-Run**
+- 🌱 I’m currently learning **C# and .NET in Alif Academy and IT-Run**
 
 - 📫 How to reach me **bahodur0101@icloud.com**
 
