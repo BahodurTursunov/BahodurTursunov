@@ -1,99 +1,26 @@
-# Привет, меня зовут Баходур! 
-<!---https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg -->
-<!---https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg -->
----
+<h1 align="center">Hi 👋, I'm Bahodur</h1>
+<h3 align="center">A back-end developer from Tajikistan</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bahodurtursunov&label=Profile%20views&color=0e75b6&style=flat" alt="bahodurtursunov" /> </p>
 
-- 👨‍💻: Обо мне:
-Я начинающий бэк-энд разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в 2019 году, когда я поступил в Российкий Университет Дружбы Народов, где я отучился и успешно выпустился. Во время вуза я пробовал себя во многих направлениях, пробовал изучать веб-разработку, язык Питон, пробовал себя в DevOps, но больше всего меня зацепила бэкэнд разработка! С августа 2023 года по октябрь 2023 я проходил стажировку в компании. В настоящий момент прохожу курс по языку программирования C# в Alif Academy и в IT Run, а также прохожу курс по Инженерному мышлению в компании Junior Code.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahodurtursunov" alt="bahodurtursunov" /></a> </p>
 
----
+- 🌱 I’m currently learning **C# in Alif Academy and IT-Run**
 
-- 🔭: Участвовал в бассейне Школы 21 от Сбера.
+- 📫 How to reach me **bahodur0101@icloud.com**
 
-- 📬: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-bakha_neoff-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz)[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tursunovb18@gmail.com)
-  
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bahodurkhon-tursunov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahodurkhon-tursunov" height="30" width="40" /></a>
+<a href="https://instagram.com/bakha_neoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bakha_neoff" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bahodurtursunov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bahodurtursunov" height="30" width="40" /></a>
+</p>
 
-### 🤝 Социальные сети:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
 
-  <div id="badges">
-    <a href="www.linkedin.com/in/bahodurkhon-tursunov-a6908628b" target="blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://vk.com/btursunov2001" target="blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
-  
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahodurtursunov&show_icons=true&locale=en&layout=compact" alt="bahodurtursunov" /></p>
 
-### 💻 Технологии:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bahodurtursunov&show_icons=true&locale=en" alt="bahodurtursunov" /></p>
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL-Server" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
-</div>
-
----
-
-### 🛠 Инструменты:
-
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### 💻 Пройденные курсы:
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| coursera.com/Основы разработки на C++: Белый пояс               | 01/2021           |
-| fructCode.ru/Курс HTML/CSS                                      | 05/2021           |     
-| sql-academy.org/ru/MySQL                                        | 09/2023           |
-| simpleCode/C# От новичка к профессионалу, ютуб курс             | 06/2023           |
----
-
-<!-- <div align="center">
-     <a href="https://www.codewars.com/users/BahodurTursunov">
-        <img src="gif.gif"  width="300"/>
-     </a>
-  </a>
-</div>
-
-<div align="center">
-    <a href="https://www.codewars.com/users/BahodurTursunov">
-        <img src="https://www.codewars.com/users/BahodurTursunov/badges/small"
-             title="CodeWars" alt="CodeWars"/>
-    </a>
-</div>
--->
-![Codewars](https://github.r2v.ch/codewars?user=BahodurTursunov&top_languages=true) 
-![LeetCode](https://leetcard.jacoblin.cool/BahodurTursunov?ext=activity)
-
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=BahodurTursunov&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BahodurTursunov&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
-
-![](https://komarev.com/ghpvc/?username=BahodurTursunov)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahodurtursunov&" alt="bahodurtursunov" /></p>
