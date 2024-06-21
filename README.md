@@ -1,10 +1,10 @@
-# Привет, я Bahodur Tursunov! 👋
+# Hello, I'm Bahodur Tursunov! 👋
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
-## 📬 Как связаться со мной:
+## 📬 How to reach me:
 
 [![Telegram Badge](https://img.shields.io/badge/-bakha_neoff-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bakha_neoff)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tursunovb18@gmail.com)
@@ -13,7 +13,7 @@
 
 ---
 
-## 💻 Технологии:
+## 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -28,33 +28,33 @@
 
 ---
 
-## 📚 Пройденные курсы:
+## 📚 Courses Completed:
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| coursera.com/Основы разработки на C++: Белый пояс               | 01/2021           |
-| fructCode.ru/Курс HTML/CSS                                      | 05/2021           |     
-| sql-academy.org/ru/MySQL                                        | 09/2023           |
-| simpleCode/C# От новичка к профессионалу                        | 06/2023           |
-| Курс по C# разработке - IT RUN                                  | 06/2024           |
-| Разработка на языке - C# Alif Academy                           | 04/2024           |
+| Course                                                           | Date              |
+| -----------------------------------------------------------------| :---------------: |
+| coursera.com/Introduction to C++ Programming: White Belt         | 01/2021           |
+| fructCode.ru/HTML/CSS Course                                     | 05/2021           |     
+| sql-academy.org/ru/MySQL                                         | 09/2023           |
+| simpleCode/C# From Beginner to Professional                      | 06/2023           |
+| C# Development Course - IT RUN                                   | 06/2024           |
+| C# Development - Alif Academy                                    | 04/2024           |
 
 ---
 
-## 🏆 Мои достижения на платформах:
+## 🏆 My Achievements on Platforms:
 
 <div align="center">
   <a href="https://www.codewars.com/users/bakha0101">
     <img src="https://www.codewars.com/users/bakha0101/badges/large" alt="Codewars" />
   </a>
   <a href="https://leetcode.com/BahodurTursunov/">
-    <img src="https://leetcard.jacoblin.cool/BahodurTursunov" alt="LeetCode" />
+    <img src="https://leetcard.jacoblin.cool/BahodurTursunov?ext=activity" alt="LeetCode" />
   </a>
 </div>
 
 ---
 
-## ⚙️ GitHub статистика:
+## ⚙️ GitHub Statistics:
 
 <table>
   <tr>
