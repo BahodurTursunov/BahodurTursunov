@@ -42,8 +42,14 @@
 
 ## 🏆 Мои достижения на платформах:
 
-[![codewars](https://www.codewars.com/users/bakha0101/badges/large)](https://www.codewars.com/users/bakha0101)   
-![LeetCode](https://leetcard.jacoblin.cool/BahodurTursunov?ext=activity)
+<div align="center">
+  <a href="https://www.codewars.com/users/bakha0101">
+    <img src="https://www.codewars.com/users/bakha0101/badges/large" alt="Codewars" />
+  </a>
+  <a href="https://leetcode.com/BahodurTursunov/">
+    <img src="https://leetcard.jacoblin.cool/BahodurTursunov?ext=activity" alt="LeetCode" />
+  </a>
+</div>
 
 ---
 
