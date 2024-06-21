@@ -47,7 +47,7 @@
     <img src="https://www.codewars.com/users/bakha0101/badges/large" alt="Codewars" />
   </a>
   <a href="https://leetcode.com/BahodurTursunov/">
-    <img src="https://leetcard.jacoblin.cool/BahodurTursunov?ext=activity" alt="LeetCode" />
+    ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark)
   </a>
 </div>
 
