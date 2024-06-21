@@ -1,3 +1,5 @@
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 - 📬: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-bakha_neoff-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bakha_neoff/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tursunovb18@gmail.com)
   
 ---
@@ -45,7 +47,6 @@
   </tr>
 </table>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
