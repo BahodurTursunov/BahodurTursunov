@@ -5,7 +5,7 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="www.linkedin.com/in/bahodurkhon-tursunov" target="blank">
+    <a href="www.linkedin.com/in/bahodurkhon-tursunov-a6908628b" target="blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://vk.com/btursunov2001" target="blank">
