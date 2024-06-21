@@ -1,6 +1,10 @@
 # Hello, I'm Bahodur Tursunov! 👋
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
+  </a>
+</div>
 
 ---
 
