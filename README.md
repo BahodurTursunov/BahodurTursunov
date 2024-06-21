@@ -77,6 +77,7 @@
 -->
 [![codewars](https://www.codewars.com/users/bakha0101/badges/large)](https://www.codewars.com/users/bakha0101)   
 ![LeetCode](https://leetcard.jacoblin.cool/BahodurTursunov?ext=activity)
+<img src="https://myreadme.vercel.app/api/embed/BahodurTursunov?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
 ### ⚙️ GitHub статистика:
