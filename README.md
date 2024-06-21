@@ -75,7 +75,7 @@
     </a>
 </div>
 -->
-![Codewars](https://github.r2v.ch/codewars?user=bakha0101?top_languages=true) 
+[![codewars](https://www.codewars.com/users/bakha0101/badges/large)](https://www.codewars.com/users/bakha0101)   
 ![LeetCode](https://leetcard.jacoblin.cool/BahodurTursunov?ext=activity)
 
 
