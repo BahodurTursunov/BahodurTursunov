@@ -40,8 +40,8 @@
 | fructCode.ru/HTML/CSS Course                                     | 05/2021           |     
 | sql-academy.org/ru/MySQL                                         | 09/2023           |
 | simpleCode/C# From Beginner to Professional                      | 06/2023           |
-| C# Development Course - IT RUN                                   | 06/2024           |
-| C# Development - Alif Academy                                    | 04/2024           |
+| C# Developer Course - IT RUN                                     | 06/2024           |
+| C# Developer - Alif Academy                                      | 04/2024           |
 
 ---
 
