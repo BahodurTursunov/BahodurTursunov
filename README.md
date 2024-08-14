@@ -1,4 +1,5 @@
-# Hello, I'm Bahodur Tursunov! 👋
+# Hello, I'm Bahodur Tursunov! 👋 
+  I'm a Back-End developer now, i going to be a full stack developer in future!
 
 <div align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
@@ -16,7 +17,7 @@
 
 ---
 
-## 💻 Technologies (BackEnd):
+## 💻 Technologies (Back-End):
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -31,7 +32,7 @@
 
 ---
 
-## 🧠 In progress (FrontEnd): 
+## 🧠 In progress (Front-End): 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor" width="40" height="40"/>&nbsp;
