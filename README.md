@@ -31,7 +31,10 @@
 </div>
 
 ---
-
+## In Process ❓
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+</div>
 ## 📚 Courses Completed:
 
 | Course                                                           | Date              |
