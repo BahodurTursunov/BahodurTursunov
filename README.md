@@ -16,7 +16,7 @@
 
 ---
 
-## 💻 Technologies:
+## 💻 Technologies (BackEnd):
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧠 In progress  
+## 🧠 In progress (FrontEnd): 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor" width="40" height="40"/>&nbsp;
