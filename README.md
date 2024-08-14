@@ -13,7 +13,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-bakha_neoff-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bakha_neoff)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tursunovb18@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bahodur-tursunov/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/BahodurTursunov)
 
 ---
 
@@ -31,7 +30,9 @@
 </div>
 
 ---
+
 ## In Process ❓
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
@@ -40,6 +41,7 @@
 </div>
 
 ---
+
 ## 📚 Courses Completed:
 
 | Course                                                           | Date              |
