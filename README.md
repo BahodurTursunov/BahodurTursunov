@@ -1,5 +1,4 @@
 # Hello, I'm Bahodur Tursunov! 👋 
-  I'm a Back-End developer now, i going to be a full stack developer in future!
 
 <div align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
